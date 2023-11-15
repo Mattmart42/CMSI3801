@@ -13,3 +13,4 @@ const clickCounter = clickCounter();
 
 clickCounter();
 clickCounter();
+clickCounter();
